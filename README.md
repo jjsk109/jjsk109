@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![html5](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
+![html5](https://img.shields.io/badge/HTML5-red)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
-![PHP](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
-![React](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
-![Node.js](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![React](https://img.shields.io/badge/React-black)
+![Node.js](https://img.shields.io/badge/Node-green)
