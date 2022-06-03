@@ -2,16 +2,15 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3>Hi I'm Iksoon, call me Nicksoon <h3>
 <br><br>
-  🔭 I’m currently working on ... <br>
- <p>HandsomeFish(WebAgency/웹에이전시)</p> <br>
+  
+  🔭 I’m currently working on ... 
+ <p>HandsomeFish(WebAgency/웹에이전시)</p> 
  <p>대리/개발자(php)</p>
  
 <!--
 **jjsk109/jjsk109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
