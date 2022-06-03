@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![html5]
+![html5](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
 ![CSS]
 ![JavaScript]
 ![PHP]
