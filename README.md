@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![html5](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
-![CSS]
-![JavaScript]
-![PHP]
-![React]
-![Node.js]
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
+![PHP](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
+![React](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
+![Node.js](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html)
