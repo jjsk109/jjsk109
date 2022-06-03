@@ -1,9 +1,9 @@
 <h1>안녕하세요 저는 장익순 입니다 👋</h1> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3>Hi I'm Iksoon, call me Nicksoon <h3>
-<br><br><br><br>
-  🔭 I’m currently working on ...
- # HandsomeFish 
+<br><br>
+  🔭 I’m currently working on ... <br>
+ # HandsomeFish <br>
  - 대리/개발자(php)
  
 <!--
