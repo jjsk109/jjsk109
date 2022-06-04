@@ -4,9 +4,17 @@
 <br><br>
   
   🔭 I’m currently working on ... 
- <p>HandsomeFish(WebAgency/웹에이전시)</p> 
- <p>대리/개발자(php)</p>
+ <p>ModenVision(Vision Machine Developer/비전머신 개발 c++ )</p> 
+ <p>HandsomeFish(WebAgency/웹에이전시 php)</p> 
+
+  <br>
+  🌱 I’m currently learning ...
+  <p>1. English -- now level 2 (max10)</p>
+  <p>2. PHP -- now level 5 (max10) </p>
+  <p>3. React -- now level 3 (max10) </p>
+  <p>4. Node -- now level 2 (max10) </p>
  
+  
 <!--
 **jjsk109/jjsk109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
