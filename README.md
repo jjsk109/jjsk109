@@ -14,6 +14,7 @@
   <h6>2. PHP -- now level 5 (max10) </h6>
   <h6>3. React -- now level 3 (max10) </h6>
   <h6>4. Node -- now level 2 (max10) </h6>
+  <h6>5. JavaScript -- now level 5 (max10) </h6>
  
   
 <!--
