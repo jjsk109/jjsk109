@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![React](https://img.shields.io/badge/React-black)
 ![Node.js](https://img.shields.io/badge/Node-green)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
   
   
 
