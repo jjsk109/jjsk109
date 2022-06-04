@@ -14,7 +14,7 @@
   <h6>2. PHP -- now level 5 (max10) </h6>
   <h6>3. React -- now level 3 (max10) </h6>
   <h6>4. Node -- now level 2 (max10) </h6>
-  <h6>5. JavaScript -- now level 5 (max10) </h6>
+  <h6>5. JavaScript(es6) -- now level 5 (max10) </h6>
  
   
 <!--
@@ -22,7 +22,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+ 
  ### - Languages and Tools...
 ![html5](https://img.shields.io/badge/HTML5-red)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
