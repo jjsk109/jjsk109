@@ -1,11 +1,12 @@
 <h1>안녕하세요 저는 장익순 입니다 👋</h1> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3>Hi I'm Iksoon, call me Nicksoon <h3>
-<br><br>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br>
   
   🔭 I’m currently working on ... 
- <p>ModenVision(Vision Machine Developer/비전머신 개발 c++ )</p> 
- <p>HandsomeFish(WebAgency/웹에이전시 php)</p> 
+ <h6>ModenVision(Vision Machine Developer/비전머신 개발 c++ )</h6> 
+ <h6>HandsomeFish(WebAgency/웹에이전시 php)</h6> 
 
   <br>
   🌱 I’m currently learning ...
