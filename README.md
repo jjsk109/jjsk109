@@ -9,10 +9,10 @@
 
   <br>
   🌱 I’m currently learning ...
-  <p>1. English -- now level 2 (max10)</p>
-  <p>2. PHP -- now level 5 (max10) </p>
-  <p>3. React -- now level 3 (max10) </p>
-  <p>4. Node -- now level 2 (max10) </p>
+  <h6>1. English -- now level 2 (max10)</h6>
+  <h6>2. PHP -- now level 5 (max10) </h6>
+  <h6>3. React -- now level 3 (max10) </h6>
+  <h6>4. Node -- now level 2 (max10) </h6>
  
   
 <!--
