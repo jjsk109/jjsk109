@@ -28,13 +28,14 @@
     <hr/>
   🔭 I’m currently working on ... 
  <h6>ModenVision(Vision Machine Developer/비전머신 개발 c++ )</h6> 
- <h6>HandsomeFish(WebAgency/웹에이전시 php)</h6> 
-
+ <h6>HandsomeFish(WebAgency/웹에이전시 php, 가비아,)</h6> 
+ <h6>dpplannig(service Develop node(express), react, aws(+RDS), FCM, Git </h6>
+ 
   <br>
   🌱 I’m currently learning ...
   <h6>1. English -- now level 2 (max10)</h6>
   <h6>2. PHP -- now level 5 (max10) </h6>
-  <h6>3. React -- now level 4 (max10) </h6>
+  <h6>3. React -- now level 5 (max10) </h6>
   <h6>4. Node -- now level 4 (max10) </h6>
   <h6>5. JavaScript(es6) -- now level 5 (max10) </h6>
   <h6>6. git -- now level 3 (max10) </h6>
