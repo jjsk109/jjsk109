@@ -34,11 +34,11 @@
   <br>
   🌱 I’m currently learning ...
   <h6>1. English -- now level 2 (max10)</h6>
-  <h6>2. PHP -- now level 5 (max10) </h6>
-  <h6>3. React -- now level 6 (max10) </h6>
-  <h6>4. Node -- now level 5 (max10) </h6>
-  <h6>5. JavaScript(es6) -- now level 5 (max10) </h6>
-  <h6>6. git -- now level 4 (max10) </h6>
+  <h6>2. PHP -- now level 6 (max10) </h6>
+  <h6>3. React -- now level 7 (max10) </h6>
+  <h6>4. Node -- now level 6 (max10) </h6>
+  <h6>5. JavaScript(es6) -- now level 6 (max10) </h6>
+  <h6>6. git -- now level 5 (max10) </h6>
  
   
 <!--
