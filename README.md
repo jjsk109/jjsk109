@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 ![html5](https://img.shields.io/badge/HTML5-red)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/CSS3-blue)
 ![PHP](https://img.shields.io/badge/PHP-purple)
 ![React](https://img.shields.io/badge/React-black)
 ![Node.js](https://img.shields.io/badge/Node-green)
